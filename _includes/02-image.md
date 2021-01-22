@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[Anice cup of coffe] https://image.freepik.com/free-photo/nice-cup-coffee-morning_44953-22.jpg
